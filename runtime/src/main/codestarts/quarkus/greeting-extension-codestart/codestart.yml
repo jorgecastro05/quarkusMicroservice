@@ -1,0 +1,9 @@
+name: greeting-extension-codestart
+ref: greeting-extension
+type: code
+tags: extension-codestart
+metadata:
+  title: Greeting Extension
+  description: Start coding with Greeting Extension
+#  path: /some-path
+#  related-guide-section: TBD

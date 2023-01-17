@@ -1,0 +1,14 @@
+name: Greeting Extension
+#description: Do something useful.
+metadata:
+#  keywords:
+#    - greeting-extension
+#  guide: ...
+#  categories:
+#    - "miscellaneous"
+#  status: "preview"
+  codestart:
+    name: greeting-extension
+    languages:
+      - "java"
+    artifact: "org.acme:greeting-extension:codestarts:jar:${project.version}"
